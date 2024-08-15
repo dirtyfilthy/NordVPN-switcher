@@ -6,6 +6,7 @@ HERE = pathlib.Path(__file__).parent
 VERSION = '0.3.3'
 PACKAGE_NAME = 'nordvpn_switcher'
 AUTHOR = 'Kristof Boghe, ualers'
+AUTHOR_EMAIL = 'unknown@nowhere.com'
 URL = 'https://github.com/ualers/NordVPN-switcher'
 
 LICENSE = 'Apache License 2.0'
