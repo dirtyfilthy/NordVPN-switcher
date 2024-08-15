@@ -3,11 +3,10 @@ from setuptools import setup, find_packages
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.3.0'
+VERSION = '0.3.3'
 PACKAGE_NAME = 'nordvpn_switcher'
-AUTHOR = 'Kristof Boghe'
-AUTHOR_EMAIL = 'kboghe@gmail.com'
-URL = 'https://github.com/kboghe/NordVPN-switcher'
+AUTHOR = 'Kristof Boghe, ualers'
+URL = 'https://github.com/ualers/NordVPN-switcher'
 
 LICENSE = 'Apache License 2.0'
 DESCRIPTION = 'Rotate between different NordVPN servers with ease. Works both on Linux and Windows without any required changes to your code!'
